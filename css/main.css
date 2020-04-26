@@ -14029,28 +14029,7 @@ a img.aligncenter {
 	white-space: nowrap;
 }
 
-.page_topline .topline-news-item .cat-links {
-	display: inline;
-}
 
-.page_topline .topline-news-nav-arrow {
-	border: 1px solid #323232;
-	bottom: 20px;
-	font-size: 10px;
-	line-height: 38px;
-	position: relative;
-	-webkit-transition: opacity 0.2s ease-in-out;
-	transition: opacity 0.2s ease-in-out;
-	width: 40px;
-}
-
-.page_topline .topline-news-nav-arrow:hover {
-	opacity: 0;
-}
-
-.page_topline .owl-nav > div {
-	opacity: 1;
-}
 
 @media (min-width: 992px) {
 	.page_toplogo .media + .media {
