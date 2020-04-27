@@ -3179,7 +3179,7 @@ a.pswp__share--download:hover {
 #toTop {
 	background-color: #ff497c;
 	border-radius: 50%;
-	bottom: 10px;
+	bottom: 0px;
 	color: transparent;
 	font-size: 0;
 	height: 50px;
