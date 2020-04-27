@@ -3212,7 +3212,7 @@ a.pswp__share--download:hover {
 #toTopHover,
 #toTop:hover {
 	bottom: 3px;
-	opacity: 1;
+	opacity: 0;
 }
 
 #toTop:hover:after {
@@ -3248,7 +3248,7 @@ a.pswp__share--download:hover {
 	clear: both;
 	display: table;
 	margin: auto;
-	padding: 20px 0;
+	padding: 0px 0;
 	text-align: center;
 }
 
